@@ -66,7 +66,7 @@ By querying across these interconnected tables, I extracted insights about skill
 - **Complex joins:** Multi-table `INNER JOIN` operations across `job_postings_fact`, `skills_job_dim`, and `skills_dim`.
 - **Aggregations:**  `COUNT()`, `MEDIAN()`, `ROUND()` for statistical analysis.
 - **Filterings:** Boolean logic with `WHERE` clauses and multiple conditions (`job_title_short`, `job_work_from_home`, `salary_year_avg IS NOT NULL`).
-- **Sorting & Limiting:** `ORDER BY` with `DESC` and `LIMIT` for top-N analysis.
+- **Sorting & Limiting:** `ORDER BY` with `DESC` and `LIMIT` for top-N analysis...
 
 ### Data Analysis Technique
 
