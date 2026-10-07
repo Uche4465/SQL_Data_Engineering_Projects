@@ -25,7 +25,7 @@ FROM
     job_postings_fact AS jpf
 LIMIT 10;
 
-
+-- 2. explor
 SELECT
     job_location,  
     job_via,
@@ -37,7 +37,7 @@ FROM
     job_postings_fact AS jpf
 LIMIT 10;
 
-
+-- 3. explor
 SELECT
     job_no_degree_mention,
     job_health_insurance,
