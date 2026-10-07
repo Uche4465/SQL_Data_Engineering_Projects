@@ -2,7 +2,7 @@
 
 The following projects are a collection of SQL projects that I have worked on to practise and reinforce my skills with data engineering tools.
 
-> Click the project name below to view the tools I have used to bbuild these!
+> Click the project name below to view the tools I have used to build these!
 
 ## Projects
 
